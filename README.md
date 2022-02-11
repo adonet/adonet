@@ -1,3 +1,4 @@
+```python
 const Adonet = {
   code: ["PHP", "Javascript", "HTML", "CSS"],
   tools: ["Angular", "Laravel", "TailwindCSS", "SQL"],
@@ -12,3 +13,4 @@ const Adonet = {
      devto: "https://adanat.com", 
   ]  
 }
+```
