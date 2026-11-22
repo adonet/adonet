@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="adanat-github-logo.png" alt="Adanat · by Adolfo Aragón Fernández" width="520">
+  <img src="https://raw.githubusercontent.com/adonet/adonet/main/adanat-github-logo.png" alt="Adanat · by Adolfo Aragón Fernández" width="520">
 </p>
 
 <h2 align="center">Hola 👋, soy Adolfo Aragón</h2>
@@ -20,13 +20,21 @@
 
 final class Adolfo
 {
-    public array $codigo       = ['PHP', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Python'];
-    public array $herramientas = ['Laravel', 'Filament', 'Tailwind CSS', 'Bootstrap', 'MySQL / MariaDB', 'Git'];
-    public array $intereses    = ['automatización', 'datos abiertos', 'ciberseguridad', 'rendimiento', 'IA aplicada'];
+    public array $codigo = [
+        'PHP', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Python',
+    ];
+
+    public array $herramientas = [
+        'Laravel', 'Filament', 'Tailwind CSS', 'Bootstrap', 'MySQL', 'Git',
+    ];
+
+    public array $intereses = [
+        'automatización', 'datos abiertos', 'ciberseguridad', 'IA aplicada',
+    ];
 
     public function trabajo(): string
     {
-        return 'Aplicaciones web a medida: gestión, facturación, estadísticas y automatización.';
+        return 'Aplicaciones web a medida: gestión, estadísticas y automatización.';
     }
 
     public function web(): string
