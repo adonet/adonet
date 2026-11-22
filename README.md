@@ -53,7 +53,6 @@ final class Adolfo
 ### 📈 Actividad
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adonet&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=es&theme=transparent&title_color=e63946&icon_color=e63946" alt="Estadísticas de GitHub de adonet">
   <img height="165" src="https://streak-stats.demolab.com?user=adonet&locale=es&hide_border=true&theme=transparent&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="Racha de contribuciones de adonet">
 </p>
 
